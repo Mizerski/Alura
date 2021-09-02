@@ -1,0 +1,51 @@
+/*================== Var ==========================*/
+:root {
+  --background: #cccccc;
+  --white: #ffffff;
+  --red: #ff0000;
+  --black: #000000;
+  --gold: #c78c19;
+  --green: #099c19;
+  --gray: #aaa;
+  --gray-clear: #bbbbbb;
+  --gray-strong: #777777;
+}
+/*================== Body ==========================*/
+#banner {
+  width: 100%;
+}
+.main {
+  padding: 1.875rem;
+  background: var(--background);
+}
+.title {
+  padding-left: 1.25rem;
+}
+.title-centralized {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+#missao {
+  font-size: 1.25rem;
+}
+em b {
+  color: var(--red);
+}
+.itens {
+  font-style: italic;
+}
+.container {
+  background: var(--background);
+  padding: 1.25rem;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.beneficio-img {
+  width: 50%;
+}
