@@ -129,7 +129,7 @@ E tenho interesse em aprender :
 <p>
   📝 Veja meu
   <a
-    href="https://drive.google.com/file/d/1AHGYM9KEVyNl2shlSQCfHANTjvVoB1Fp/view?usp=sharing"
+    href="https://drive.google.com/file/d/1SXlAu4PaMf5f3YBJ0UPXs-aBs8vQAQV-/view?usp=sharing"
     >Currículo</a
   >
   para mais informações.
