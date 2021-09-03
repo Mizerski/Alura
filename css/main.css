@@ -14,24 +14,24 @@
 #banner {
   width: 100%;
 }
-.main {
+.home {
   padding: 1.875rem;
   background: var(--background);
 }
 .title {
-  padding-left: 1.25rem;
+  padding-left: 20px;
 }
-.title-centralized {
+.title {
   text-align: center;
 }
 p {
   text-align: center;
 }
 #missao {
-  font-size: 1.25rem;
+  font-size: 20px;
 }
 em b {
-  color: var(--red);
+  color: #ff0000;
 }
 .itens {
   font-style: italic;
@@ -46,6 +46,6 @@ ul {
   width: 20%;
   margin-right: 15%;
 }
-.beneficio-img {
+.content-img {
   width: 50%;
 }
